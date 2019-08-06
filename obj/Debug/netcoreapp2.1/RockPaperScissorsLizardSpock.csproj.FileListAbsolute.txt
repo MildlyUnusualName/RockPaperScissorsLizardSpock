@@ -1,0 +1,11 @@
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.deps.json
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.runtimeconfig.json
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.runtimeconfig.dev.json
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.dll
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.pdb
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.csprojAssemblyReference.cache
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.csproj.CoreCompileInputs.cache
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.AssemblyInfoInputs.cache
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.AssemblyInfo.cs
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.dll
+C:\Users\nolan\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp2.1\RockPaperScissorsLizardSpock.pdb
